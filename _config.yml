@@ -1,28 +1,40 @@
-name: Flame Touched Glass
 favicon: null
-layout_spectrum: 0.925077872350812
-typography_spectrum: 0.7453392271418124
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Flame Touched Glass
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.6878240825608373
-  lightness: 0.7506204834207892
-  saturation: 0.09473579423502088
-  rhythmicContrast: 0.14776650560088456
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.6421744
+  brandStrength: 0.5454002
+  lightness: 0.7174432
+  brandColors:
+    - '#1F1715'
+    - '#C8CDC6'
+    - '#6F3041'
+    - '#FDFFFC'
+    - '#C6AB05'
+  rhythmicContrast: 0.5860214
+typography_spectrum: 0.1571087
+layout_spectrum: 0.9444444
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
