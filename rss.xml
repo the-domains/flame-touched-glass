@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Flame Touched Glass]]></title>
         <description><![CDATA[Flame Touched Glass]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/flame-touched-glass/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 14:16:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 18:34:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/flame-touched-glass/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[liquid color ]]></title>
-            <description><![CDATA[<article><h1>liquid color </h1><p>formed in fire</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/859bc38aaf20c9bc95a991395bd34083cc8bba2e.jpg"></article>]]></description>
-            <link>undefinedliquid-color/index.html</link>
+            <description><![CDATA[<article><h1>liquid color </h1><p>formed in fire</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c74e9d152128fedd8211ef216f4d2af674b939dc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/flame-touched-glass/liquid-color/index.html</link>
             <guid isPermaLink="false">00a2c0e7-c138-4005-a87d-47e9fc20635f</guid>
-            <pubDate>Sun, 03 Jan 2016 14:16:08 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 18:33:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
