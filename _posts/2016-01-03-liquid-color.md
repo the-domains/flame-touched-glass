@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: formed in fire
-datePublished: '2016-01-08T18:33:49.988Z'
-dateModified: '2016-01-04T18:33:58.816Z'
+datePublished: '2016-01-08T18:34:10.148Z'
+dateModified: '2016-01-08T18:33:49.988Z'
 title: 'liquid color '
 author: []
 sourcePath: _posts/2016-01-03-liquid-color.md
